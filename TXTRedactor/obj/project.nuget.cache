@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Wo6iVf3eYiNDifak1A45P/QcdcGvtHKr8SJhCspZ0mYidwHJ4ZP4K1FTTX7lBAoaet02mWMTAgjmismC5KJfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\Desktop\\c# projects\\TXTRedactor\\TXTRedactor\\TXTRedactor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\bin\Debug\net6.0\TXTRedactor.exe
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\bin\Debug\net6.0\TXTRedactor.deps.json
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\bin\Debug\net6.0\TXTRedactor.runtimeconfig.json
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\bin\Debug\net6.0\TXTRedactor.dll
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\bin\Debug\net6.0\TXTRedactor.pdb
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.AssemblyInfo.cs
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.dll
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\refint\TXTRedactor.dll
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.pdb
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.genruntimeconfig.cache
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\ref\TXTRedactor.dll
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danil\Desktop\c# projects\TXTRedactor\TXTRedactor\obj\Debug\net6.0\TXTRedactor.csproj.CopyComplete
